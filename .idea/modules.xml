@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Week 2/Bank/Bank.iml" filepath="$PROJECT_DIR$/Week 2/Bank/Bank.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week 1/Bills/Bills.iml" filepath="$PROJECT_DIR$/Week 1/Bills/Bills.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week 1/Circle/Circle.iml" filepath="$PROJECT_DIR$/Week 1/Circle/Circle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week 1/Login/Login.iml" filepath="$PROJECT_DIR$/Week 1/Login/Login.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week 1/Teams/Teams.iml" filepath="$PROJECT_DIR$/Week 1/Teams/Teams.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week 2/Week 2.iml" filepath="$PROJECT_DIR$/Week 2/Week 2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Week 1/fizzBuzz/fizzBuzz.iml" filepath="$PROJECT_DIR$/Week 1/fizzBuzz/fizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Term 1/Week 2/Bank/Bank.iml" filepath="$PROJECT_DIR$/Term 1/Week 2/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Term 1/Week 1/Bills/Bills.iml" filepath="$PROJECT_DIR$/Term 1/Week 1/Bills/Bills.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Term 1/Week 1/Circle/Circle.iml" filepath="$PROJECT_DIR$/Term 1/Week 1/Circle/Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Term 1/Week 1/Login/Login.iml" filepath="$PROJECT_DIR$/Term 1/Week 1/Login/Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Term 1/Week 1/Teams/Teams.iml" filepath="$PROJECT_DIR$/Term 1/Week 1/Teams/Teams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Term 1/Term 1.iml" filepath="$PROJECT_DIR$/Term 1/Term 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Term 1/Week 2/Week 2.iml" filepath="$PROJECT_DIR$/Term 1/Week 2/Week 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Term 1/Week 1/fizzBuzz/fizzBuzz.iml" filepath="$PROJECT_DIR$/Term 1/Week 1/fizzBuzz/fizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/uni-y2.iml" filepath="$PROJECT_DIR$/.idea/uni-y2.iml" />
     </modules>
   </component>
