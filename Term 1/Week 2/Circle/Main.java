@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Enter the radius of the circle: ");
         double radius = input.nextDouble();
 
-        Circle circle1 = new Circle(radius);
+        Circle circle1 = new Circle();
         System.out.println("Circle 1 - Radius: " + circle1.getRadius() + ", Colour: " + circle1.getColor());
 
         input.close();

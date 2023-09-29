@@ -2,19 +2,24 @@ import java.util.Scanner;
 
 public class Circle {
 
-    // fileds
-    public double radius;
-    public String color;
+    // fields
+    private double radius;
+    private String color;
 
-    // constructor
+    // default constructor
     public Circle() {
-        this.radius = 1.8;
+        this.radius = 1.0;
         this.color = "red";
     }
 
-    public Circle(double radius){
-        this.radius = radius;
-        setColor(radius);
+    // 2nd constructor with given radius, but colour default
+    public Circle(double r){
+        radius = r;
+        color = "red";
+    }
+
+    public double getArea(){
+        return radius * radius * Math.PI;
     }
 
 
